@@ -30,7 +30,7 @@ confirm it, and the config directive that fixes it.
 ## Install
 
 ```bash
-git clone https://github.com/<you>/relayhound.git
+git clone https://github.com/<Mr-Whiskerss/relayhound.git
 cd relayhound
 pip install -r requirements.txt   # optional but recommended
 chmod +x relayhound.py
